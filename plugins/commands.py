@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/WPM_OTT')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamTELEFLIX')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/M4MHD'),
-            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/WOLFPACKMEDIA3')
+            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/TeamTELEFLIX'),
+            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/+AdnOzGkxSo84NzVl')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -90,8 +90,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/WPM_OTT'),
-            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/WOLFPACKMEDIA3')
+            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/TeamTELEFLIX'),
+            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/+AdnOzGkxSo84NzVl')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -141,7 +141,7 @@ async def start(client, message):
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
                     caption=f_caption,
-                    reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton("㊗️  𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝙍  ㊗️", url="https://t.me/M4MHD") ] ] ),
+                    reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton("㊗️  𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝙍  ㊗️", url="https://t.me/TeamTELEFLIX") ] ] ),
                     protect_content=msg.get('protect', False),
                     )
             except FloodWait as e:
@@ -245,8 +245,8 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("㊗️  𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝙍  ㊗️", url="https://t.me/M4MHD"),
-                                               InlineKeyboardButton("💥ꜱʜᴀʀᴇ💥", url="https://t.me/share/url?url=https://t.me/WOLFPACKMEDIA3") ],
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("㊗️  𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝙍  ㊗️", url="https://t.me/TeamTELEFLIX"),
+                                               InlineKeyboardButton("💥ꜱʜᴀʀᴇ💥", url="https://t.me/share/url?url=https://t.me/+AdnOzGkxSo84NzVl") ],
                                              [ InlineKeyboardButton("🔖ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ🔖", url="https://telegra.ph/httpstelegraphfilee908cfc0d08e47ca337ecjpg-01-06") ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
