@@ -1,14 +1,14 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    START_TXT ="""𝐇𝐄𝐋𝐋𝐎 {},
+𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 <a href=https://t.me/{}>{}</a>,𝐈 𝐂𝐀𝐍 𝐏𝐑𝐎𝐕𝐈𝐃𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐒𝐄𝐑𝐈𝐄𝐒, 𝐈 𝐖𝐎𝐑𝐊 𝐅𝐎𝐑 𝐓𝐄𝐀𝐌 𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍𝐙 𝐌𝐎𝐕𝐈𝐄𝐙😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Developer : <a href='https://t.me/M4MHD'>★ 𝙈𝙃𝘿 𝙏𝙃𝘼𝙉𝙕𝙀𝙀𝙍 ★</a>
+🕵‍♂ Developer : <a href='https://t.me/dark_lord_8'>★ 𝘼𝙆𝙎𝙃𝘼𝙔 ★</a>
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-🖥 Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-🔋 Bot Group : @wolfpackmedia3 </b>"""
+🖥 Language : പച്ച മലയാളം
+🎪 Data Base : ᴋᴏʟʟᴀᴍ
+🔋 Bot Group : <a href='https://t.me/+AdnOzGkxSo84NzVl>𝙏𝙀𝙇𝙀𝙁𝙇𝙄𝙓</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 ~ 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶</b>"""
