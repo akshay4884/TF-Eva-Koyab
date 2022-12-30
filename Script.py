@@ -1,9 +1,11 @@
 class script(object):
-    START_TXT ="""𝐇𝐄𝐋𝐋𝐎 {},
-𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 <a href=https://t.me/{}>{}</a>,𝐈 𝐂𝐀𝐍 𝐏𝐑𝐎𝐕𝐈𝐃𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐒𝐄𝐑𝐈𝐄𝐒 𝐓𝐇𝐀𝐓 𝐘𝐎𝐔 𝐍𝐄𝐄𝐃, 
-𝙄 𝙒𝙊𝙍𝙆 𝙁𝙊𝙍 <a href='https://t.me/+AdnOzGkxSo84NzVl'>𝙏𝙀𝙇𝙀𝙁𝙇𝙄𝙓</a>
+    START_TXT ="""𝐇𝐄𝐋𝐋𝐎 {}
 
-𝙈𝙮 𝙊𝙬𝙣𝙚𝙧 :- <a href='http://t.me/dark_lord_8'>𝗔𝗞𝗦𝗛𝗔𝗬</a>"""
+𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 <a href=https://t.me/{}>{}</a>,𝐈 𝐂𝐀𝐍 𝐏𝐑𝐎𝐕𝐈𝐃𝐄 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐒𝐄𝐑𝐈𝐄𝐒 𝐓𝐇𝐀𝐓 𝐘𝐎𝐔 𝐍𝐄𝐄𝐃. 
+
+𝙄 𝙒𝙊𝙍𝙆 𝙁𝙊𝙍 𝙏𝙀𝘼𝙈 <a href='https://t.me/+AdnOzGkxSo84NzVl'>𝙏𝙀𝙇𝙀𝙁𝙇𝙄𝙓</a>
+
+𝙈𝙮 𝘿𝙀𝙑 :- <a href='http://t.me/dark_lord_8'>𝗔𝗞𝗦𝗛𝗔𝗬</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>🥱 My Name : {}
