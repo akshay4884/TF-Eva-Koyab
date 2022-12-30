@@ -8,7 +8,7 @@ class script(object):
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 🖥 Language : പച്ച മലയാളം
 🎪 Data Base : ᴋᴏʟʟᴀᴍ
-🔋 Bot Group : <a href='https://t.me/+AdnOzGkxSo84NzVl>𝙏𝙀𝙇𝙀𝙁𝙇𝙄𝙓</a></b>"""
+🔋 Bot Group : <a href='https://t.me/+AdnOzGkxSo84NzVl'>𝙏𝙀𝙇𝙀𝙁𝙇𝙄𝙓</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 ~ 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶</b>"""
